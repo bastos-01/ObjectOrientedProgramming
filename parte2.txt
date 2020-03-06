@@ -1,0 +1,137 @@
+Lista de equipas ( 68 equipas)
+Leiria (POR)=Equipa , treinada por Unknown (1 jogadores) robos= id=Abel Vagos, tipo= Defesa*;*
+golosMarcados= 0
+Differdange (LUX)=Equipa , treinada por Unknown (1 jogadores) robos= id=Adolfo Teixeira, tipo= Avançado*;*
+golosMarcados= 0
+Portugal WOCO=Equipa , treinada por Unknown (1 jogadores) robos= id=Adriana Rodrigues, tipo= Médio*;*
+golosMarcados= 0
+Sporting CP (POR) / Portugal=Equipa , treinada por Unknown (1 jogadores) robos= id=Adrien Silva, tipo= Médio*;*
+golosMarcados= 0
+Estoril (POR)=Equipa , treinada por Unknown (1 jogadores) robos= id=Afonso Feteiro, tipo= Avançado*;*
+golosMarcados= 0
+Guimarães (POR)=Equipa , treinada por Unknown (1 jogadores) robos= id=Afonso Taira, tipo= Médio*;*
+golosMarcados= 0
+Benfica (POR)=Equipa , treinada por Unknown (1 jogadores) robos= id=Alex, tipo= Avançado*;*
+golosMarcados= 0
+Marítimo (POR)=Equipa , treinada por Unknown (1 jogadores) robos= id=Alex Alfaiate, tipo= Defesa*;*
+golosMarcados= 0
+Guimarães (POR) / Portugal U19=Equipa , treinada por Unknown (1 jogadores) robos= id=Alex Soares, tipo= Médio*;*
+golosMarcados= 0
+União (POR)=Equipa , treinada por Unknown (1 jogadores) robos= id=Alexandre Silva, tipo= Avançado*;*
+golosMarcados= 0
+Liverpool (ENG) / Portugal WOCO=Equipa , treinada por Unknown (1 jogadores) robos= id=Alfa Semedo, tipo= Defesa*;*
+golosMarcados= 0
+Chelsea (ENG) / Portugal WOCO=Equipa , treinada por Unknown (1 jogadores) robos= id=Alves, Rafael, tipo= Guarda-redes*;*
+golosMarcados= 0
+Portugal WU19=Equipa , treinada por Unknown (1 jogadores) robos= id=Amanda Da Costa, tipo= Médio*;*
+golosMarcados= 0
+Benfica (POR) / Portugal=Equipa , treinada por Unknown (1 jogadores) robos= id=Ana Borges, tipo= Defesa*;*
+golosMarcados= 0
+Porto (POR) / Portugal=Equipa , treinada por Unknown (1 jogadores) robos= id=Ana Bral, tipo= Médio*;*
+golosMarcados= 0
+Kasımpaşa (TUR)=Equipa , treinada por Unknown (1 jogadores) robos= id=Ana Oliveira, tipo= Guarda-redes*;*
+golosMarcados= 0
+Portugal FUT=Equipa , treinada por Unknown (1 jogadores) robos= id=Ana Teixeira, tipo= Defesa*;*
+golosMarcados= 0
+Belenenses (POR)=Equipa , treinada por Unknown (1 jogadores) robos= id=Andrade, Rúben, tipo= Médio*;*
+golosMarcados= 0
+Valencia (ESP) / Portugal=Equipa , treinada por Unknown (1 jogadores) robos= id=André Almeida, tipo= Defesa*;*
+golosMarcados= 0
+Setúbal (POR)=Equipa , treinada por Unknown (1 jogadores) robos= id=André André, tipo= Médio*;*
+golosMarcados= 0
+Moreirense (POR)=Equipa , treinada por Unknown (1 jogadores) robos= id=André Castro, tipo= Médio*;*
+golosMarcados= 0
+Sporting CP (POR)=Equipa , treinada por Unknown (1 jogadores) robos= id=André Coelho, tipo= Defesa*;*
+golosMarcados= 0
+Porto (POR)=Equipa , treinada por Unknown (1 jogadores) robos= id=André Ferreira, tipo= Guarda-redes*;*
+golosMarcados= 0
+União (POR) / Portugal U21=Equipa , treinada por Unknown (1 jogadores) robos= id=André Geraldes, tipo= Defesa*;*
+golosMarcados= 0
+Braga (POR)=Equipa , treinada por Unknown (1 jogadores) robos= id=André Gomes, tipo= Médio*;*
+golosMarcados= 0
+Portugal U19=Equipa , treinada por Unknown (1 jogadores) robos= id=André Horta, tipo= Médio*;*
+golosMarcados= 0
+Porto (POR) / Portugal U21=Equipa , treinada por Unknown (1 jogadores) robos= id=André Marques, tipo= Defesa*;*
+golosMarcados= 0
+Fundão (POR) / Portugal FUT=Equipa , treinada por Unknown (1 jogadores) robos= id=André Martins, tipo= Médio*;*
+golosMarcados= 0
+Portugal WU17=Equipa , treinada por Unknown (1 jogadores) robos= id=André Mesquita, tipo= Avançado*;*
+golosMarcados= 0
+Barcelona (ESP)=Equipa , treinada por Unknown (1 jogadores) robos= id=André Micael, tipo= Defesa*;*
+golosMarcados= 0
+Benfica (POR) / Portugal WOCO=Equipa , treinada por Unknown (1 jogadores) robos= id=André Moreira, tipo= Guarda-redes*;*
+golosMarcados= 0
+Paços Ferreira (POR)=Equipa , treinada por Unknown (1 jogadores) robos= id=André Nabais, tipo= Defesa*;*
+golosMarcados= 0
+Rio Ave (POR)=Equipa , treinada por Unknown (1 jogadores) robos= id=André Pinto, tipo= Defesa*;*
+golosMarcados= 0
+Benfica (POR) / Portugal FUT=Equipa , treinada por Unknown (1 jogadores) robos= id=André Ribeiro, André David, tipo= Avançado*;*
+golosMarcados= 0
+Dynamo Kyiv (UKR) / Portugal=Equipa , treinada por Unknown (1 jogadores) robos= id=André Silva, tipo= Avançado*;*
+golosMarcados= 0
+Servette (SUI)=Equipa , treinada por Unknown (1 jogadores) robos= id=André Sousa, tipo= Guarda-redes*;*
+golosMarcados= 0
+White Bear (ENG) / Portugal FUT=Equipa , treinada por Unknown (1 jogadores) robos= id=André Sousa, tipo= Médio*;*
+golosMarcados= 0
+Litex (BUL)=Equipa , treinada por Unknown (1 jogadores) robos= id=Andreia Faria, tipo= Médio*;*
+golosMarcados= 0
+Arouca (POR)=Equipa , treinada por Unknown (1 jogadores) robos= id=Andreia Marques, tipo= Avançado*;*
+golosMarcados= 0
+Nacional (POR)=Equipa , treinada por Unknown (1 jogadores) robos= id=Andreia Norton, tipo= Avançado*;*
+golosMarcados= 0
+Ouriense (POR) / Portugal WOCO=Equipa , treinada por Unknown (1 jogadores) robos= id=Andreia Silvia, tipo= Avançado*;*
+golosMarcados= 0
+Monaco (FRA) / Portugal=Equipa , treinada por Unknown (1 jogadores) robos= id=Andreia Veiga, tipo= Médio*;*
+golosMarcados= 0
+Sevilla (ESP) / Portugal=Equipa , treinada por Unknown (1 jogadores) robos= id=Andrezinho, tipo= Médio*;*
+golosMarcados= 0
+Trabzonspor (TUR) / Portugal=Equipa , treinada por Unknown (1 jogadores) robos= id=Aníbal Capela, tipo= Defesa*;*
+golosMarcados= 0
+Real Sociedad (ESP) / Portugal / Portugal U21=Equipa , treinada por Unknown (1 jogadores) robos= id=Anilton, tipo= Avançado*;*
+golosMarcados= 0
+Sant Julià (AND)=Equipa , treinada por Unknown (1 jogadores) robos= id=Antonio Pereira, tipo= Avançado*;*
+golosMarcados= 0
+Fenerbahçe (TUR) / Portugal=Equipa , treinada por Unknown (1 jogadores) robos= id=Antunes, tipo= Defesa*;*
+golosMarcados= 0
+Udinese (ITA) / Portugal U21=Equipa , treinada por Unknown (1 jogadores) robos= id=Areias, tipo= Defesa*;*
+golosMarcados= 0
+Dnipro (UKR)=Equipa , treinada por Unknown (1 jogadores) robos= id=Areias, tipo= Avançado*;*
+golosMarcados= 0
+Tondela (POR)=Equipa , treinada por Unknown (1 jogadores) robos= id=Armando Mirra, tipo= Médio*;*
+golosMarcados= 0
+Apollon (CYP)=Equipa , treinada por Unknown (1 jogadores) robos= id=Arnaldo Pereira, tipo= Defesa*;*
+golosMarcados= 0
+Benfica (POR) / Portugal U21=Equipa , treinada por Unknown (1 jogadores) robos= id=Arsenio, tipo= Médio*;*
+golosMarcados= 0
+Sporting CP (POR) / Portugal U19=Equipa , treinada por Unknown (1 jogadores) robos= id=Artur, tipo= Médio*;*
+golosMarcados= 0
+Benfica (POR) / Portugal U19=Equipa , treinada por Unknown (1 jogadores) robos= id=Artur Jorge, tipo= Defesa*;*
+golosMarcados= 0
+CFR Cluj (ROU)=Equipa , treinada por Unknown (1 jogadores) robos= id=Assis, tipo= Guarda-redes*;*
+golosMarcados= 0
+Inter (ESP) / Portugal FUT=Equipa , treinada por Unknown (1 jogadores) robos= id=Aurélio, Luís, tipo= Médio*;*
+golosMarcados= 0
+Iraklis (GRE)=Equipa , treinada por Unknown (1 jogadores) robos= id=Baixinho, Marco, tipo= Médio*;*
+golosMarcados= 0
+Sion (SUI)=Equipa , treinada por Unknown (1 jogadores) robos= id=Banjaqui, Zidane, tipo= Médio*;*
+golosMarcados= 0
+Sporting CP (POR) / Portugal U21=Equipa , treinada por Unknown (1 jogadores) robos= id=Bárbara Marques, tipo= Médio*;*
+golosMarcados= 0
+Boavista (POR)=Equipa , treinada por Unknown (1 jogadores) robos= id=Bárbara Marques, tipo= Guarda-redes*;*
+golosMarcados= 0
+1° Dezembro (POR) / Portugal WOCO=Equipa , treinada por Unknown (1 jogadores) robos= id=Bárbara Santos, tipo= Guarda-redes*;*
+golosMarcados= 0
+Southampton (ENG) / Portugal=Equipa , treinada por Unknown (1 jogadores) robos= id=Basto, Hugo, tipo= Defesa*;*
+golosMarcados= 0
+Târgu Mureş (ROU)=Equipa , treinada por Unknown (1 jogadores) robos= id=Beatriz Vieira, tipo= Defesa*;*
+golosMarcados= 0
+Linköping (SWE) / Portugal WOCO=Equipa , treinada por Unknown (1 jogadores) robos= id=Bebe, tipo= Guarda-redes*;*
+golosMarcados= 0
+Sporting CP (POR) / Portugal FUT=Equipa , treinada por Unknown (1 jogadores) robos= id=Bernardo Silva, tipo= Médio*;*
+golosMarcados= 0
+Omonia (CYP)=Equipa , treinada por Unknown (1 jogadores) robos= id=Betinho, tipo= Avançado*;*
+golosMarcados= 0
+Akhisar (TUR)=Equipa , treinada por Unknown (1 jogadores) robos= id=Beto, tipo= Guarda-redes*;*
+golosMarcados= 0
+Zenit (RUS) / Portugal=Equipa , treinada por Unknown (1 jogadores) robos= id=Borges, Micael, tipo= Avançado*;*
+golosMarcados= 0
